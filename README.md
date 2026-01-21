@@ -2,6 +2,10 @@
 
 A beautiful, modern, and smart website blocking Chrome Extension designed to help you stay focused and distraction-free.
 
+🔗 **Chrome Web Store:**  
+https://chromewebstore.google.com/detail/nuqta-site-blocker/lngcogdoddheoaakfgcaadbgjhgflhcj
+📄 **Privacy Policy:**  
+See `PRIVACY.md` for full details about data handling and privacy.
 ## 🎨 Features
 
 ### ✨ Modern Design
