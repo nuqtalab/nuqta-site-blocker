@@ -4,6 +4,7 @@ A beautiful, modern, and smart website blocking Chrome Extension designed to hel
 
 🔗 **Chrome Web Store:**  
 https://chromewebstore.google.com/detail/nuqta-site-blocker/lngcogdoddheoaakfgcaadbgjhgflhcj
+
 📄 **Privacy Policy:**  
 See `PRIVACY.md` for full details about data handling and privacy.
 ## 🎨 Features
