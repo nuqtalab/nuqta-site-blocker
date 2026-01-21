@@ -6,17 +6,24 @@ Nuqta Site Blocker is a Chrome extension designed to help users stay focused and
 
 ---
 
+## Extension Information
+
+**Chrome Web Store Link:**  
+https://chromewebstore.google.com/detail/nuqta-site-blocker/lngcogdoddheoaakfgcaadbgjhgflhcj
+
+---
+
 ## 1. Data Collection
 
 Nuqta Site Blocker **does not collect, store, or transmit any personally identifiable information**.
 
 We do **not** collect:
-- Names, email addresses, or personal identifiers  
-- Health or medical information  
-- Financial or payment information  
-- Location data  
-- Browsing history  
-- User activity such as clicks, keystrokes, or mouse movements  
+- Names, email addresses, or personal identifiers
+- Health or medical information
+- Financial or payment information
+- Location data
+- Browsing history
+- User activity such as clicks, keystrokes, or mouse movements
 
 ---
 
@@ -24,7 +31,7 @@ We do **not** collect:
 
 The extension may **locally process website content (text only)** for the sole purpose of detecting user-defined blocked keywords.
 
-- This processing happens **entirely on the user’s device**
+- Processing happens **entirely on the user’s device**
 - Website content is **not stored**
 - Website content is **not shared or transmitted**
 - Website content is **not used for analytics or tracking**
@@ -35,7 +42,7 @@ This functionality exists only to support keyword-based content blocking.
 
 ## 3. Password & Security Data
 
-If a user chooses to enable password protection:
+If a user enables password protection:
 - Passwords are **hashed locally using SHA-256**
 - Plaintext passwords are **never stored**
 - Password data is **never transmitted or shared**
@@ -57,10 +64,10 @@ are stored locally using Chrome’s `storage` API and are used only to provide c
 ## 5. Data Sharing
 
 Nuqta Site Blocker:
-- ❌ Does **not** sell user data  
-- ❌ Does **not** share user data with third parties  
-- ❌ Does **not** use data for advertising or analytics  
-- ❌ Does **not** transfer data outside the extension  
+- ❌ Does **not** sell user data
+- ❌ Does **not** share user data with third parties
+- ❌ Does **not** use data for advertising or analytics
+- ❌ Does **not** transfer data outside the extension
 
 ---
 
@@ -71,13 +78,14 @@ The extension only requests permissions necessary to:
 - Manage focus session timers
 - Save user preferences
 
-All permissions are used strictly for the extension’s single purpose: **helping users reduce distractions and stay focused**.
+All permissions are used strictly for the extension’s single purpose:  
+**Helping users reduce distractions and stay focused.**
 
 ---
 
 ## 7. Third-Party Services
 
-Nuqta Site Blocker does **not** use third-party analytics, tracking tools, or external code.
+Nuqta Site Blocker does **not** use third-party analytics, tracking tools, or external services.
 
 ---
 
@@ -89,7 +97,8 @@ Nuqta Site Blocker does not knowingly collect data from children under the age o
 
 ## 9. Changes to This Policy
 
-This Privacy Policy may be updated from time to time. Any changes will be reflected in this file with an updated effective date.
+This Privacy Policy may be updated from time to time.  
+Any changes will be reflected in this file with an updated effective date.
 
 ---
 
